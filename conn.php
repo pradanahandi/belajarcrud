@@ -1,8 +1,8 @@
 <?php
-	$host = "dbpegwai.cwbsliexfyow.us-east-2.rds.amazonaws.com";
-	$username = "admin";
-	$password = "admin122";
-	$database = "pegawai";
+	$host = "linkendpoint";
+	$username = "namausername";
+	$password = "passwordanda";
+	$database = "namadb";
 
 	$query = mysqli_connect($host,$username,$password,$database);
 	if(!$query)
