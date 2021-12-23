@@ -2,7 +2,7 @@
 // koneksi database
 include 'conn.php';
 // menangkap data yang di kirim dari form
-	$id = $_POST['id'];
+	$id = $_POST['idkaryawan'];
     
     $name=$_POST['nama'];
     $alamat = $_POST['alamat'];
