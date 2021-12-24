@@ -12,7 +12,9 @@ $query = mysqli_query($query, "SELECT * FROM tbl_karyawan ORDER BY idkaryawan DE
  
 <body>
 <a href="add.php">Add New User</a><br/><br/>
- 
+    <?php
+        echo "Local IP Address : ".getHostByName(getHostName());
+    ?>
     <table width='80%' border=1>
  
     <tr>
