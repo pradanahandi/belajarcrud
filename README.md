@@ -34,3 +34,6 @@
        * > $username = isi dengan username RDS contoh -> "admin"
        * > $password = YOUR PASSWORD contoh -> "password"
        * > $database = YOUR DATABASE contoh -> "karyawan"
+   * > Jika sudah, simpan dan keluar menggunakan perintah ctrl + x + y enter
+## Test Program
+* > Buka browser dan masukan ip address
