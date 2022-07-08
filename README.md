@@ -8,7 +8,7 @@
 ## Clone Web Apps
 * > sudo git clone https://github.com/pradanahandi/belajarcrud.git /var/www/html/
 * > sudo chmod 755 /var/www/html/belajarcrud/
-* > sudo /var/www/html/belajarcrud
+* > cd /var/www/html/belajarcrud
 
 ## Config Database
 1. Buat cluster database menggunakan RDS dari MySQL
