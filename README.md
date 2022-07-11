@@ -6,7 +6,7 @@
 * > sudo apt install -y apache2 php7.4 libapache2-mod-php7.4 php7.4-mysql php7.4-cli php7.4-common git mysql-client
 
 ## Clone Web Apps
-* > sudo git clone https://github.com/pradanahandi/belajarcrud.git /var/www/html/
+* > sudo git clone https://github.com/pradanahandi/belajarcrud.git /var/www/html/belajarcrud
 * > sudo chmod 755 /var/www/html/belajarcrud/
 * > cd /var/www/html/belajarcrud
 
