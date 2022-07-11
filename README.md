@@ -21,12 +21,9 @@
    * >  `alamat` text
    * > ) ENGINE=InnoDB DEFAULT CHARSET=latin1;
 5. Tambahkan data pada tabel karyawan dengan perintah berikut :
-   * > INSERT INTO `product` (`product_id`, `product_name`, `product_price`) VALUES
-   * > (1, 'Product 1', 2000),
-   * > (2, 'Product 2', 2000),
-   * > (3, 'Product 3', 3000),
-   * > (4, 'Product 4', 2000),
-   * > (5, 'Product 5', 1500); 
+   * > INSERT INTO `tbl_karyawan` (`idkaryawan`, `namakaryawan`, `alamat`) VALUES
+   * > (6, 'Handi', 'Bogor'),
+   * > (7, 'Betuah', 'Bogor');
 6. Kembali ke putty, dan buka file conn.php yang ada di folder /var/www/html/belajarcrud dengan perintah berikut :
    * > sudo nano conn.php
    * > Edit seperti host(endpoint), username, password, dan nama database seperti berikut :
