@@ -3,7 +3,7 @@
 * > sudo apt update -y
 * > sudo LC_ALL=C.UTF-8 add-apt-repository ppa:ondrej/php
 * > sudo apt update -y
-* > sudo apt install -y apache2 php7.4 libapache2-mod-7.4 php7.4-mysql php7.4-cli php7.4-common git mysql-client
+* > sudo apt install -y apache2 php7.4 libapache2-mod-php7.4 php7.4-mysql php7.4-cli php7.4-common git mysql-client
 
 ## Clone Web Apps
 * > sudo git clone https://github.com/pradanahandi/belajarcrud.git /var/www/html/
